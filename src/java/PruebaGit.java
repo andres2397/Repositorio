@@ -16,6 +16,7 @@ public class PruebaGit {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         System.out.println("Prueba de navegador a netbeans");
+         System.out.println(" netbeans");
 
     
 
